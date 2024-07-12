@@ -1,0 +1,32 @@
+body {
+  background-color:midnightblue;
+}
+h1 {
+  font-size: 8rem;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  color: orange;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+span {
+  font-size: 50px;
+  color: orange;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#piru {
+  display: flex;
+  gap: 240px;
+  justify-content: center
+}
+#dice {
+  margin-top: 20px;
+  display: flex;
+  gap: 200px;
+  justify-content: center
+}
+footer {
+  color:aliceblue;
+  font-size: 25px;
+  margin-top: 100px;
+}
